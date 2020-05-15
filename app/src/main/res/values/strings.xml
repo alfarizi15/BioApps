@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">BioApps</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+
+
+    <string name="slide_1_desc">Aplikasi ini dilengkapi event daily sehari hari  agar aktivitas mu terjadwal</string>
+
+
+    <string name="slide_2_desc">Dan juga dilengkapi gallery untuk menyimpan kenangan indah saat kamu pergi keluar sana</string>
+
+
+    <string name="slide_3_desc">Aplikasi ini juga menyediakan list music fav by developer</string>
+
+
+    <string name="navigation_open">Navigation Open</string>
+    <string name="navigation_close">Navigation Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    deskripsi diri sendiri-->
+    <string name="deskripsi">Aldi Alfarizi anak ketiga dari 3 bersaudara sangat bersukur bagi saya dan
+dari kedua orang tua saya. Kenapa saya bilang sangat
+bersukur karena kedua orang tua saya pernah bercerita kepada saya bahwa nama yang telah
+di berikan orang tua saya mempunyai arti : cahaya yang selalu mendapat hidayah.
+Saya lahir di bandung pada 15 maret 2000.Sekarang saya sedang menempuh pendidikan di
+unikom. Secara astrologi, saya Gemini, Gemini merupakan tanda ke-lima dari zodiak hal
+itulah membuat kepribadian saya menjadi unik terkadang pendiam dan simpel. Negatifnya,
+jika saya sebal dengan orang lain saya tidak akan bicara dengan dia sampai kapan pun
+terkecuali dia yang duluan bicara dengan saya atau minta maaf. Ya, tidak ada manusia
+yang sempurna. Tetapi saya selalu mencoba menjadi orang baik.
+    </string>
+    <string name="deskripsi2">
+Saya orangnya humoris, setidaknya menurut saya sendiri saya orangnya baik dan tidak
+sombong pada siapa pun, ramah tamah apa lagi kepada orang yang lebih tua kepada saya,
+ suka menghargai orang lain karena sebelum kita menghargai diri kita sendiri maka
+ terlebih dahulu hargailah orang lain jika kita menghargai orang lain maka orang
+lain pun akan menghargai kita, selain itu saya juga senang membuat orang tertawa
+ karena sungguh salah satu kebahagiaan di dunia ini yang saya rasakan adalah ketika
+ kita dikelilingi oleh orang-orang yang bahagia.
+
+    </string>
+    <string name="desripsi3">
+Adapun hobby yang saya miliki yaitu dalam bidang olagraga dan game, jika membicarakan
+olahraga saya menyukai renang.Jujur saja saya sangat tidak suka dengan orang yang
+ sifatnya aneh (dalam bentuk sikap dan cara bicara) suka menipu, tukang bohong,
+ tidak menghargai orang lain, sombong dan angkuh, sombong dalam hal pelajaran, dan lain-lain</string>
+
+
+</resources>

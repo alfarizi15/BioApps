@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.home.home2"
+    android:id="@+id/homes2"
+    android:background="@drawable/backgound_bliss"
+
+    android:orientation="vertical"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="60dp"
+        android:background="@color/moonlit3"
+        android:paddingLeft="20dp"
+
+        android:paddingRight="20dp"
+        android:text="INTEREST"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/dot_dark_screen1"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/text_view1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:textColor="@color/dot_dark_screen1"
+        android:background="@color/moonlit3"
+        android:text="Hobby :"
+        />
+    <TextView
+        android:id="@+id/text_view1b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:textColor="@color/dot_dark_screen1"
+        android:background="@color/moonlit3"
+        android:text="Movie,pc games,mobile games"
+
+        />
+
+
+    <TextView
+        android:id="@+id/text_view2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Makes :"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:id="@+id/text_view2b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="design house,make website"
+        android:layout_marginBottom="30dp"
+
+        />
+        />
+
+    <TextView
+        android:id="@+id/text_view3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:textColor="@color/dot_dark_screen1"
+        android:background="@color/moonlit3"
+        android:text="Interest :"/>
+    <TextView
+        android:id="@+id/text_view3b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:textColor="@color/dot_dark_screen1"
+        android:background="@color/moonlit3"
+        android:text="technology, AI future"
+        android:layout_marginBottom="30dp"
+
+        />
+
+
+    <TextView
+        android:id="@+id/text_view4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Cita-cita :"
+        />
+
+    <TextView
+        android:id="@+id/text_view4b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dot_dark_screen1"
+        android:padding="10dp"
+        android:text="software dev, web dev ,gear gaming store"
+        android:textSize="25sp"
+
+        />
+
+
+</LinearLayout>

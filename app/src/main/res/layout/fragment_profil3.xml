@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.profil.profil3"
+    android:background="@drawable/backgound_bliss"
+    android:padding="10dp"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Findme"
+        android:textSize="30dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="@color/dot_dark_screen1"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="130dp"
+        android:background="@color/moonlit3"
+        />
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/pin_points"
+        android:layout_marginTop="160dp"
+        />
+
+
+    <TextView
+        android:text="https://www.google.com/maps/place/Kaos+Urang/@-6.9993359,107.6223835,17z/data=!4m5!3m4!1s0x2e68e99cd6ab289d:0xf2c1b400d3eb3402!8m2!3d-6.9993359!4d107.6245722"
+        android:id="@+id/TextView5"
+        android:layout_marginTop="160dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:autoLink="web"
+        android:textColorLink="@color/dot"
+
+
+        >
+    </TextView>
+
+
+</FrameLayout>

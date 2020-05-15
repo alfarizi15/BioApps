@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.profil.profil2"
+    android:background="@drawable/backgound_bliss"
+    android:padding="10dp"
+
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact"
+        android:textSize="30dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="@color/dot_dark_screen1"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="130dp"
+        android:background="@color/moonlit3"
+
+
+        />
+   <ImageView
+       android:layout_width="80dp"
+       android:layout_height="80dp"
+       android:src="@drawable/hp"
+       android:layout_marginTop="130dp"
+       />
+
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/gm"
+        android:layout_marginTop="230dp"
+        android:layout_marginLeft="15dp"
+
+        />
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ig"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="15dp"
+
+        />
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/fb"
+        android:layout_marginTop="430dp"
+        android:layout_marginLeft="15dp"
+
+        />
+    <TextView
+        android:text="https://web.facebook.com/aldi.alfarizi.756"
+        android:id="@+id/TextView1"
+        android:layout_marginTop="440dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:autoLink="web"
+        android:textColorLink="@color/dot"
+        >
+    </TextView>
+
+    <TextView
+        android:text="https://www.instagram.com/alfareesz/?hl=id"
+        android:id="@+id/TextView2"
+        android:layout_marginTop="340dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:autoLink="web"
+        android:textColorLink="@color/dot">
+    </TextView>
+
+    <TextView
+        android:text="aldialfarizi15@gmail.com"
+        android:id="@+id/TextView4"
+        android:layout_marginTop="240dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:autoLink="email"
+        android:textColorLink="@color/dot"
+        >
+    </TextView>
+
+    <TextView
+        android:text="+6281809340289"
+        android:id="@+id/TextView5"
+        android:layout_marginTop="160dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:textColorLink="@color/dot"
+        android:autoLink="phone">
+    </TextView>
+
+
+
+</FrameLayout>

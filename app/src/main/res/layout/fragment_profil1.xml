@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.profil.profil1"
+    android:background="@drawable/backgound_bliss"
+
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/myPict"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="49dp"
+        android:src="@drawable/image20"
+        android:layout_marginLeft="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PROFILE"
+        android:textSize="30dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="@color/dot_dark_screen1"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="130dp"
+        android:background="@color/moonlit3"
+        />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="130dp"
+            android:background="@color/moonlit3"
+            android:orientation="vertical"
+            android:padding="10dp"
+            >
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/dot_dark_screen1"
+                android:text="@string/deskripsi"
+
+                />
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/dot_dark_screen1"
+                android:text="@string/deskripsi2" />
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/dot_dark_screen1"
+                android:text="@string/desripsi3" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</FrameLayout>
